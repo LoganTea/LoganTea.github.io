@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Typescrip review: Better than Java"
+title: "Typescrip review: 'Better than Java'"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-05
 labels:
