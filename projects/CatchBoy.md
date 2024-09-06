@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/CatchBoyStart.png
 title: "Catch Boy!"
-date: 2022
+date: 2021
 labels:
   - Python
   - Game
