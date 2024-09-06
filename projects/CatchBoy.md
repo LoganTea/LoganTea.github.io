@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: CatchBoyStart.png
 title: "Catch Boy!"
 date: 2022
 labels:
