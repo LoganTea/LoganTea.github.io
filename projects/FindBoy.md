@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/findboystart.png
 title: "Find Boy!"
-date: 2022
+date: 2021
 labels:
   - Python
   - Game
