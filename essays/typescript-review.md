@@ -7,7 +7,6 @@ date: 2024-09-05
 labels:
   - Typescript
   - Programming
-  - Opinions
 ---
 
 ## My initial thoughts
