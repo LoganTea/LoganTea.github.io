@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/catchboystart.png
+image: img/CatchBoyStart.png
 title: "Catch Boy!"
 date: 2022
 labels:
