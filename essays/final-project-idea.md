@@ -9,9 +9,9 @@ labels:
 ---
 
 ## Overview
-# The Problem
+##### The Problem
   The problem this final project is looking at is that a lot of students tend to struggle in the front half of courses when they don't understand the materials or content given to them. For example, in our very class of 314 a lot of us struggle with the Nextjs and Bootstrap applications because of a lack of knowledge and understanding, further enforced by the allowance of AI in our assignments. Because of this I don't think any of us actually know how to properly use those applications.
-# The Solution
+##### The Solution
   We believe that the solution to this problem is to have a site where you can upload notes, explanations, and assistance for different things. This is often done inside of discord groups that are formed for the different classes, but this would mean that over the course of several semesters the answers to all of the minor issues would slowly be fixed, information would stockpile for new students to use, and it would overall make it much easier for students to learn and understand what they're doing in class.
 
 ## Proposers
