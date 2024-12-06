@@ -7,15 +7,15 @@
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
   --tf-green1: #65805C;
-  --tf-green2: #FFDAF0;
-  --tf-green3: #ACBCA0;
+  --tf-green2: #ACBCA0;
+  --tf-green3: #FFDAF0;
   --tf-green4: #FFDAF0;
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--tf-green1);
   --tf-pill-bg: var(--tf-green3);
   --tf-icon-fill: var(--tf-green1);
   --tf-icon-hover: var(--tf-green2);
-  --tf-page-bg-color: var(--bs-white);
+  --tf-page-bg-color: #FFE5F5;
   --tf-footer-bg-color: var(--tf-green4);
   --tf-projects-bg-color: var(--tf-green4);
 }
