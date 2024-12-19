@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Textswap.png
+image: img/textswap.png
 title: "Textswap"
 date: 2021
 labels:
